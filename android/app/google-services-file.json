@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "46478635609",
+    "project_id": "odkec-3445e",
+    "storage_bucket": "odkec-3445e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46478635609:android:306d4b86e64d3766373748",
+        "android_client_info": {
+          "package_name": "com.example.od_kec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46478635609-9tnli2f75j02etr8cgtris2ghnok3238.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlu8109vb0gKQfHMIuAA1w7yYMVudldXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46478635609-9tnli2f75j02etr8cgtris2ghnok3238.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
